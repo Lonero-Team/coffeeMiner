@@ -7,7 +7,7 @@ In each machine, remember to setup the dns server, for example, in /etc/resolv.c
 nameserver 8.8.8.8
 ```
 
-### Victim
+### Router
 - network adapter:
     - Host-only Adapter
 - /etc/network/interfaces:
@@ -23,7 +23,7 @@ iface eth0 inet static
     gateway 10.0.2.15
 ```
 
-### Attacker
+### Hoster
 - network adapter:
     - Host-only Adapter
 - /etc/network/interfaces:
