@@ -1,4 +1,4 @@
-# CoffeeMiner
+# Wired-Miner
 
 Collaborative (mitm) cryptocurrency mining pool for your wireless networks
 
