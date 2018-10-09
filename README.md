@@ -2,7 +2,7 @@
 
 Collaborative (mitm) cryptocurrency mining pool for your wireless networks
 
-**Warning: Don't use this project explicitly. Please only ntegrate on your own networks!**
+**Warning: Don't use this project explicitly. Please only integrate on your own networks!**
 
 ## Concept
 - Creating a mining algo to run on your Lan network, and use your router to mine while you aren't using your internet
